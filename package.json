@@ -28,7 +28,7 @@
     "jsonwebtoken": "^8.2.1",
     "moment": "^2.22.1",
     "mongodb": "^3.0.7",
-    "mongoose": "^5.0.15",
+    "mongoose": "^5.7.5",
     "passport": "^0.4.0",
     "passport-jwt": "^4.0.0",
     "react-moment": "^0.7.0",
