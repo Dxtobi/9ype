@@ -8,7 +8,7 @@
     "@material-ui/lab": "^4.0.0-alpha.48",
     "@webscopeio/react-textarea-autocomplete": "^4.6.3",
     "autolinker": "^3.14.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "emoji-mart": "^3.0.0",
     "jwt-decode": "^2.2.0",
